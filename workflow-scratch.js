@@ -1,1 +1,1 @@
-const workflow = 'test';
+const workflow = 'testing';
