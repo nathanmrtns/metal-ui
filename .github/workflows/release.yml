@@ -30,7 +30,7 @@ jobs:
 
   # Run tests
   - name: Test
-    run: npm test
+    run: npm run test-ci
 
  release:
   # Only release on push to master
