@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/trouble/metal-ui/compare/v1.1.0...v1.1.1) (2020-10-07)
+
+
+### Bug Fixes
+
+* adds fix to block ([b05f4a2](https://github.com/trouble/metal-ui/commit/b05f4a2932b3829dc71cf0da748dc40f4bcccb80))
+* adds fix to block --2 ([da7096f](https://github.com/trouble/metal-ui/commit/da7096f7394cb035517cd5c7b99a810c8dbf5af8))
+
 # [1.1.0](https://github.com/trouble/metal-ui/compare/v1.0.3...v1.1.0) (2020-10-07)
 
 
