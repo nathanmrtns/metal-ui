@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/trouble/metal-ui/compare/v1.0.3...v1.1.0) (2020-10-07)
+
+
+### Features
+
+* testing feature v4 ([9b48f6a](https://github.com/trouble/metal-ui/commit/9b48f6a624efe49a90d5d92807f026968675a239))
+
 ## [1.0.3](https://github.com/trouble/metal-ui/compare/v1.0.2...v1.0.3) (2020-10-07)
 
 
