@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/trouble/metal-ui/compare/v1.0.2...v1.0.3) (2020-10-07)
+
+
+### Bug Fixes
+
+* fixes test-and-release workflow ([1e581b0](https://github.com/trouble/metal-ui/commit/1e581b06859602d48b27ac8191773a1dedd0e833))
+
 ## [1.0.2](https://github.com/trouble/metal-ui/compare/v1.0.1...v1.0.2) (2020-10-07)
 
 
