@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/trouble/metal-ui/compare/v1.0.1...v1.0.2) (2020-10-07)
+
+
+### Bug Fixes
+
+* bumps the version back to 1.3.1 ([1f77f34](https://github.com/trouble/metal-ui/commit/1f77f348c923913b61b588ff5685ed527c3c8f95))
+
 ## [1.0.1](https://github.com/trouble/metal-ui/compare/v1.0.0...v1.0.1) (2020-10-07)
 
 
