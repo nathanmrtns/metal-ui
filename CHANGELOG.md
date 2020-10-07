@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/trouble/metal-ui/compare/v1.0.0...v1.0.1) (2020-10-07)
+
+
+### Bug Fixes
+
+* adjusts semantic ([238ef40](https://github.com/trouble/metal-ui/commit/238ef409b30a684d1db2085d9ac78ebbc13a3786))
+
 # 1.0.0 (2020-10-07)
 
 
